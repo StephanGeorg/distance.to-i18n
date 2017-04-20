@@ -7,3 +7,20 @@
 ### Please internet 🙏 ... Contribute and translate to your language
 
 I need your help to replace the crappy translations with your high class premium mothers language. So if your from 🇰🇵 or from 🇲🇦 or maybe from 🏁 , please contribute and translate to your mother languge!
+
+### Status of translations
+language  | progress
+--------- | -----
+🇩🇪 | 100%
+🇺🇸 | in progress
+🇫🇷 | 0%
+🇪🇸 | 0%
+🇧🇷🇵🇹 | 0%
+🇷🇺 | 0%
+🇮🇳 | 0%
+🇨🇳 | 0%
+🇯🇵 | 0%
+🇸🇾 | 0%
+🇰🇵🇰🇷 | 0%
+🇳🇱 | 0%
+add yours | 💋
