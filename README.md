@@ -12,9 +12,10 @@ I need your help to replace the crappy translations with your high class premium
 language  | progress
 --------- | -----
 🇩🇪 | 100%
-🇺🇸🇬🇧 | 80%
-🇮🇹 | 10%
-🇫🇷 | 0%
+🇬🇧 | 100%
+🇺🇸 | 80%
+🇮🇹 | 30%
+🇫🇷 | 10%
 🇪🇸 | 0%
 🇧🇷🇵🇹 | 0%
 🇷🇺 | 0%
