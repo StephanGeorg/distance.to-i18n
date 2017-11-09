@@ -6,6 +6,8 @@
 
 ### Please internet 🙏 ... Contribute and translate to your language
 
+# [Moved to http://i18n.distance.to/](http://i18n.distance.to/)
+
 I need your help to replace the crappy translations with your high class premium mothers language. So if your from 🇰🇵 or from 🇲🇦 or maybe from 🏁 , please contribute and translate to your mother languge!
 
 ### Status of translations
